@@ -1,6 +1,6 @@
 # Python Utility Scripts
 
-This repository contains a collection of Python scripts that perform various utility functions, including email validation, vowel counting, login authentication, pyramid generation, multiplication tables, and number sorting.
+This repository contains a collection of Python scripts developed under the supervision of ITI (Information Technology Institute), that perform various utility functions, including email validation, vowel counting, login authentication, pyramid generation, multiplication tables, and number sorting.
 
 ---
 
